@@ -1,13 +1,13 @@
-## Specification for component: checkBasicMiwu
+## Specification for component: checkBasicMIWU
 
 Interface (in JavaScript):
 
-```javascript
-const checkBasicMiwu = function (miwu) { };
+```go
+func checkBasicMIWU(miwu data.MIWU) error
 ```
 
-Throw an Error if the Miwu is not safisfying one of the following conditions:
+Return an Error if the MIWU is not safisfying one of the following conditions:
 
-- The Miwu must have a name.
-- The due date of the Miwu must not be in the past.
-- The Miwu must have a set.
+- The MIWU must have a name.
+- The due date of the MIWU must not be in the past.
+- The MIWU must have a set.
