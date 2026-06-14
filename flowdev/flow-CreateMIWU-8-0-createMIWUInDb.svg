@@ -5,5 +5,5 @@
 
     <rect fill="rgb(96,192,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-opacity="1.0" stroke-width="2" width="124" height="94" x="1025" y="1" rx="10"/>
 
-    <text fill="rgb(32,48,128)" fill-opacity="1.0" font-size="16" x="1031" y="18" textLength="112" lengthAdjust="spacingAndGlyphs">createMiwuInDb</text>
+    <text fill="rgb(0,0,0)" fill-opacity="1.0" font-size="16" x="1031" y="18" textLength="112" lengthAdjust="spacingAndGlyphs">createMIWUInDb</text>
 </svg>

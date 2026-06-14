@@ -5,5 +5,5 @@
 
     <rect fill="rgb(96,192,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-opacity="1.0" stroke-width="2" width="188" height="142" x="1261" y="49" rx="10"/>
 
-    <text fill="rgb(32,48,128)" fill-opacity="1.0" font-size="16" x="1267" y="66" textLength="176" lengthAdjust="spacingAndGlyphs">convertErrorToResponse</text>
+    <text fill="rgb(0,0,0)" fill-opacity="1.0" font-size="16" x="1267" y="66" textLength="176" lengthAdjust="spacingAndGlyphs">convertErrorToResponse</text>
 </svg>
