@@ -1,6 +1,6 @@
 ## Specification for component: checkBasicMIWU
 
-Interface (in JavaScript):
+Interface (in Go):
 
 ```go
 func checkBasicMIWU(miwu data.MIWU) error
